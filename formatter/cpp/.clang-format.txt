@@ -1,0 +1,24 @@
+# General settings
+Language: Cpp
+DisableFormat: false
+
+# Indentation and tab settings
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForIndentation
+ConstructorInitializerIndentWidth: 4
+ContinuationIndentWidth: 4
+
+# Code style settings
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+AlignAfterOpenBracket: DontAlign
+BreakConstructorInitializers: BeforeComma
+
+# Line length and packing settings
+ColumnLimit: 0
+BinPackArguments: true
+BinPackParameters: true
+
+# Pointer alignment and include sorting
+PointerAlignment: Left
+SortIncludes: false
