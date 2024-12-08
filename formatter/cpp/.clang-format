@@ -12,7 +12,6 @@ ContinuationIndentWidth: 4
 # Code style settings
 AllowShortIfStatementsOnASingleLine: AllIfsAndElse
 AlignAfterOpenBracket: DontAlign
-BreakConstructorInitializers: BeforeComma
 
 # Line length and packing settings
 ColumnLimit: 0
