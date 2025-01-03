@@ -24,3 +24,8 @@
   - `bugfix/<issue-description>` for bug fixes (e.g., `bugfix/deadlock-quit`).
   - `release/<version-number>` for release branches (e.g., `release/1.0.0`).
 - Do not use spaces or special characters except for slashes (`/`) and hyphens (`-`).
+- The default branch name should be `main`.
+  >To configure Git to use main as the default branch name for new repositories, run the following command (Git Version ≥ 2.28):<br>
+  >```bash
+  >git config --global init.defaultBranch main
+  >```
