@@ -1,1 +1,2 @@
-- NEVER EVER commit binary files to git.
+- NEVER EVER commit binary files to Git.
+  - We do not use Git LFS either.
