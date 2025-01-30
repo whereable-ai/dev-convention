@@ -5,7 +5,7 @@ DisableFormat: false
 # Indentation and tab settings
 IndentWidth: 4
 TabWidth: 4
-UseTab: ForIndentation
+UseTab: Always
 ConstructorInitializerIndentWidth: 4
 ContinuationIndentWidth: 4
 
